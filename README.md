@@ -2,7 +2,4 @@
 
 just example adding changes 
 
-
-updating readme in updating read-me branch
-
-updating in local git
+updates made on master on Github before rebase
