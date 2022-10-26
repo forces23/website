@@ -2,7 +2,7 @@
 
 just example adding changes 
 
-just addinf some changes
-
 
 updating readme in updating read-me branch
+
+updating in local git
