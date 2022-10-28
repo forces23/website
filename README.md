@@ -12,3 +12,8 @@ This file is just a readme file.
 changes to the readme file!
 
 
+## Getting Started 
+
+To get started with this project, just 'clone' this repository 
+
+
